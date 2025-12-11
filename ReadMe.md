@@ -494,8 +494,7 @@ MIT License - see LICENSE file for details
 
 For issues or questions:
 
-- Email: support@igamingafrika.com
-- GitHub Issues: [Create an issue](https://github.com/yourusername/repo/issues)
+- GitHub Issues: [Create an issue](https://github.com/swafey-karanja/repo/issues)
 
 ## 🔗 Resources
 
@@ -881,17 +880,5 @@ Make sure to:
 - [MongoDB Documentation](https://docs.mongodb.com/)
 - [Express.js Documentation](https://expressjs.com/)
 - [Mongoose Documentation](https://mongoosejs.com/)
-
-## 🎉 You're All Set!
-
-Your backend is now fully structured with:
-
-- ✅ Organized folder structure
-- ✅ Webhook processing
-- ✅ MongoDB integration
-- ✅ Error handling
-- ✅ Comprehensive API endpoints
-- ✅ Payment tracking
-- ✅ Refund handling
 
 Start building amazing payment experiences! 🚀
